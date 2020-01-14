@@ -1,2 +1,2 @@
-# friendly-octo-enigma
+# Discription
 JavaScriptの勉強資料共有リポジトリ
