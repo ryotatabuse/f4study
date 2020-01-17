@@ -1,3 +1,3 @@
 # Discription
 
-JavaScript の勉強資料共有リポジトリ
+JavaScript の勉強資料共有ファルダ
