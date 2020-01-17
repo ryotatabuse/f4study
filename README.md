@@ -1,5 +1,8 @@
 # Discription
 
-JavaScript の勉強資料共有リポジトリ
+・勉強資料共有リポジトリ
 
-テスト
+```
+共有ファイルはmarkdownファイルとなっており、
+VSCodeでは、[Ctr + Shift + v]でmdファイルをプレビューすることができます。
+```
